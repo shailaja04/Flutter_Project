@@ -64,7 +64,8 @@ To add more MP3 files:
 1. Copy your `.mp3` file into:
    assets/music/
 2. Ensure this is present in **pubspec.yaml**:
-  ** assets:**
+   
+   assets:
      - assets/music/
 ## **3. Run:**
    flutter pub get
