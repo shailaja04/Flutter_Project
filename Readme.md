@@ -1,4 +1,4 @@
-**MUSIC PLAYER APP**
+## **MUSIC PLAYER APP**
 ## **Aim**
 To develop a simple yet functional **Music Player Application** in Flutter that allows users to play, pause, stop, and seek audio tracks stored locally as assets.
 ## **Project Overview**
