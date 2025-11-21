@@ -29,7 +29,7 @@ music_player_app/
 │   └── music/
 │       ├── ganeshsong.mp3
 │       ├── Ayyapasong.mp3
-│       └── additional songs...
+│       └── Boomsong.mp3
 │
 ├── lib/
 │   ├── main.dart
