@@ -80,4 +80,8 @@ GitHub: (https://github.com/shailaja04)
 ## **License**
 This project is open-source and free to use.
 ## **Output**
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/283d8ece-e418-499a-b266-38afb0459882" />
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/83a3e5f7-5e4c-4ead-a105-276c5c1bd27d" />
+
+
 
