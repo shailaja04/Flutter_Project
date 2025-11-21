@@ -75,8 +75,8 @@ Basic widget test included to verify UI elements.
 ## **Run tests:**
 flutter test
 ## **Author**
-**Name**
-GitHub: [https://github.com/yourusername](https://github.com/shailaja04)
+Name: Ashwini Shailaja
+GitHub: (https://github.com/shailaja04)
 ## **License**
 This project is open-source and free to use.
 ## **Output**
